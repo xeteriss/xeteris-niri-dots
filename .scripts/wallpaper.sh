@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="$HOME/Pictures/wallpapersniri" //ваш путь до папки с обоями
+WALLPAPER_DIR="$HOME/Pictures/wallpapersniri" #ваш путь до папки с обоями
 
 LINK_PATH="$HOME/.config/niri/current_wallpaper"
 
