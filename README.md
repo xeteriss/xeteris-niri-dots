@@ -6,3 +6,12 @@
 
 # Установка
 никаких скриптов - скачиваете репозиторий, и все папки и файлы кидаете туда, куда нужно
+
+# Важно установить!
+### waybar
+### wofi
+### swaybg
+
+# Скриншоты
+![Скриншот1](https://github.com/xeteriss/xeteris-niri-dots/blob/main/photo_1_2026-06-08_02-22-03.jpg)
+![Скриншот2](https://github.com/xeteriss/xeteris-niri-dots/blob/main/photo_2_2026-06-08_02-22-03.jpg)
