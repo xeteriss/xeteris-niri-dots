@@ -6,7 +6,7 @@ Super + O            : Обзор рабочих столов
 Super + V            : Плавающее окно
 Super + F            : Развернуть колонку
 Super + Shift + E    : Выйти из niri
-Super + Shift + /    : Показать список биндов
+Super + F1           : Показать список биндов
 Super + B            : Firefox
 Super + S            : Steam
 Super + E            : Dolphin
