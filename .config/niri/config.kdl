@@ -644,4 +644,4 @@ binds {
 
 //всякие херни при запуске
 
-spawn-at-startup "swaybg" "-i" "/home/xeteris/.config/niri/current_wallpaper" "-m" "fill"
+spawn-at-startup "swaybg" "-i" "/home/ваше_имя/.config/niri/current_wallpaper" "-m" "fill"
