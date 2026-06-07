@@ -1,0 +1,78 @@
+* {
+font-family: "JetBrains Mono Nerd Font", "Font Awesome 6 Free", sans-serif;
+font-size: 13px;
+font-weight: 500;
+min-height: 0;
+}
+
+window#waybar {
+    background: transparent;
+    border: none;
+}
+
+#workspaces,
+#window,
+#mpris,
+#pulseaudio,
+#tray,
+#clock {
+background: #1e1e2e;
+border: none;
+border-radius: 12px;
+min-height: 36px;
+padding: 0 16px;
+margin-top: 6px;
+margin-bottom: 6px;
+color: #cdd6f4;
+transition: background-color 0.2s ease;
+}
+
+#workspaces {
+margin-left: 12px;
+margin-right: 0;
+padding: 0 8px;
+}
+
+#window, #niri-window, #custom-sosiski, #mpris, #pulseaudio, #tray {
+margin-left: 6px;
+margin-right: 6px;
+}
+
+#clock#date {
+margin-left: 6px;
+margin-right: 4px;
+color: #a6e3a1;
+}
+
+#clock#time {
+margin-left: 0;
+margin-right: 12px;
+color: #cba6f7;
+}
+
+#window:hover, #niri-window:hover, #custom-sosiski:hover, #mpris:hover, #clock:hover, #pulseaudio:hover, #tray:hover {
+background: rgba(203, 166, 247, 0.15);
+}
+
+#workspaces button {
+min-width: 28px;
+min-height: 28px;
+padding: 0;
+margin: 4px 4px;
+border-radius: 50%;
+color: #6c7086;
+background: transparent;
+transition: all 0.2s ease;
+font-size: 12px;
+}
+
+#workspaces button.active {
+background: #cba6f7;
+color: #1e1e2e;
+font-weight: 600;
+}
+
+#workspaces button:hover {
+background: rgba(203, 166, 247, 0.2);
+color: #cdd6f4;
+}
