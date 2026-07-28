@@ -75,7 +75,7 @@ input {
 // Find more information on the wiki:
 // https://niri-wm.github.io/niri/Configuration:-Outputs
 // Remember to uncomment the node by removing "/-"!
-/-output "HDMI-A-1" {
+output "HDMI-A-1" {
     // Uncomment this line to disable this output.
     // off
 
@@ -344,6 +344,13 @@ window-rule {
 window-rule {
     geometry-corner-radius 12
     clip-to-geometry true
+}
+
+window-rule {
+    match app-id=r#"^steam_app_"#
+    geometry-corner-radius 0
+    clip-to-geometry false
+    open-floating true
 }
 
 binds {
@@ -638,10 +645,11 @@ binds {
     Mod+M hotkey-overlay-title="Spotify" { spawn "spotify"; }
     Mod+B hotkey-overlay-title="Firefox" { spawn "firefox"; }
     Mod+Y hotkey-overlay-title="Vesktop" { spawn "vesktop"; }
+    Ctrl+Shift+Escape hotkey-overlay-title="System Monitor" { spawn "plasma-systemmonitor"; } //если у вас его нет, либо установите, либо закомментируйте строчку
 
 
 }
 
 //всякие херни при запуске
 
-spawn-at-startup "swaybg" "-i" "/home/ваше_имя/.config/niri/current_wallpaper" "-m" "fill"
+spawn-at-startup "swaybg" "-i" "/home/xeteris/.config/niri/current_wallpaper" "-m" "fill"
