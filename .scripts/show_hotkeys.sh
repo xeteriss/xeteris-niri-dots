@@ -1,2 +1,2 @@
 #!/bin/bash
-fuzzel --dmenu --prompt="Горячие клавиши для niri" < ~/.config/niri/hotkeys.txt
+fuzzel --dmenu --prompt="Бинды для niri" < ~/.config/niri/hotkeys.txt
