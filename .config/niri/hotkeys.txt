@@ -1,23 +1,25 @@
-Меню:
-Super + F1            : Показать список биндов
-Super + D             : Меню приложений
-
-Окна:
-Super + Q             : Закрыть окно
-Super + V             : Плавающее окно
-Super + F             : Развернуть колонку
-
-Прочее:
-Super + Shift + W     : Сменить обои
-Super + O             : Обзор рабочих столов
-Super + Shift + E     : Выйти из niri
-
-Программы:
-Super + Enter         : Открыть терминал
-Super + B             : Firefox
-Super + S             : Steam
-Super + E             : Dolphin
-Super + Z             : Telegram
-Super + M             : Spotify
-Super + Y             : Vesktop
-Ctrl + Shift + Escape : System Monitor
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃Меню:                                           ┃
+┃Super + F1            ▶ Показать список биндов  ┃
+┃Super + D             ▶ Меню приложений         ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃Окна:                                           ┃
+┃Super + Q             ▶ Закрыть окно            ┃
+┃Super + V             ▶ Плавающее окно          ┃
+┃Super + F             ▶ Развернуть колонку      ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃Прочее:                                         ┃
+┃Super + Shift + W     ▶ Сменить обои            ┃
+┃Super + O             ▶ Обзор рабочих столов    ┃
+┃Super + Shift + E     ▶ Выйти из niri           ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃Программы:                                      ┃
+┃Super + Enter         ▶ Открыть терминал        ┃
+┃Super + B             ▶ Firefox                 ┃
+┃Super + S             ▶ Steam                   ┃
+┃Super + E             ▶ Dolphin                 ┃
+┃Super + Z             ▶ Telegram                ┃
+┃Super + M             ▶ Spotify                 ┃
+┃Super + Y             ▶ Vesktop                 ┃
+┃Ctrl + Shift + Escape ▶ System Monitor          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
